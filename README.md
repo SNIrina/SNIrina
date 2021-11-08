@@ -2,7 +2,7 @@
 - 👀 I’m interested in ServiceNow App Development & Virtual Agent & NLU
 - 🌱 I’m currently learning ServiceNow Scripting
 - 💞️ I’m looking to collaborate on Any of the above
-- 📫 How to reach me Twitter @SnIrina
+- 📫 How to reach me: Twitter @moralsupportbot
 
 <!---
 SNIrina/SNIrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
